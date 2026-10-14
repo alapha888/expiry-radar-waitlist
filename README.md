@@ -3,6 +3,7 @@
 A planned local-first iOS app (native Swift/SwiftUI; Android later as a separate native project if demand warrants it): one list for subscription renewals, product warranties, and document / insurance / domain expiries, with photo filing (receipt / warranty card) and tiered reminders. No bank linking, no financial advice. Planned $9.99 one-time lifetime unlock (free tier: up to 10 entries).
 
 - Validation page: https://alapha888.github.io/expiry-radar-waitlist/
+- Validation post (public, 2026-10-14): https://gist.github.com/alapha888/0a7b2eceede86457680927f37aa4d63c — "I Am Not Building This Expiry Tracker Yet — 20 Signups in 30 Days or I Drop It"
 - Status: product not built. This repo contains only the validation page — no product source code.
 - Decision rule: registrations ≥20 in 30 days (by 2026-11-13) → start building; below that, drop the idea and notify registrants by email.
 - Indicative price (test parameter): $9.99 one-time. No payment taken, no pre-order.
