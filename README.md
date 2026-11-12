@@ -4,7 +4,6 @@ A planned local-first iOS app (native Swift/SwiftUI; Android later as a separate
 
 - Validation page: https://alapha888.github.io/expiry-radar-waitlist/
 - Validation post (public, 2026-10-14): https://gist.github.com/alapha888/0a7b2eceede86457680927f37aa4d63c — "I Am Not Building This Expiry Tracker Yet — 20 Signups in 30 Days or I Drop It"
-- Status: product not built. This repo contains only the validation page — no product source code.
-- Decision rule: registrations ≥20 in 30 days (by 2026-11-13) → start building; below that, drop the idea and notify registrants by email.
+- Status: CLOSED November 13, 2026 — validation ended with 0 registrations against a 20-person threshold, so the product will not be built. No one registered, so there was no one to notify. This repo contains only the validation page — no product source code.
 - Indicative price (test parameter): $9.99 one-time. No payment taken, no pre-order.
 - Demand evidence: native-app category scan 2026-10-13 (goal hidden_files/新候选扫描-原生app新品类-20261013.md) — Bobby (subscription tracker) 4.75 stars / 8,012 US ratings proves the subscription-tracking category, but its in-app prices top out at $0.99–$2.99, so willingness to pay $9.99 for a unified list is unproven. That single unproven assumption is what this waitlist tests. BatchForge, the previous first-in-line candidate, was demoted on 2026-10-13 after a first-hand check showed Zynaptiq's MYRIAD is back on sale; Expiry Radar moved up.
